@@ -1,4 +1,4 @@
-package com.example.proiect_fis_aplicatie;
+package com.example.proiect_fis_aplicatie.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
